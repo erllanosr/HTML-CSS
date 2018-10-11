@@ -1,0 +1,21 @@
+Tradicionalmente, las 'formas' se refieren al espacio dentro de la página web que sirve para rellenar con información.
+-Un ejemplo, la caja que tiene Google al momento de buscar.
+----
+Hay varios tipos:
+-- Adding text:
+    - Text input: Para una palabra, un correo (algo corto)
+    - Password input: Contraseñas
+    - Text area: Para textos largos.
+-- Making Choices:
+    - Radio buttons: Para seleccionar entre un número de opciones.
+    - Checkboxes: Para seleccionar una o más opciones.
+    - Drop-down boxes: Cuando se abre una lista con varias opciones.
+-- Submitting forms:
+    - Submit buttons: Para enviar datos desde su formulario a otra página web.
+    - Image buttons: Similar a 'Submit buttons' pero permite usar imágenes.
+    - Uploading files: Permite al usuario subir archivos a una página web. 
+----
+-Siempre que desee recopilar información de los visitantes, necesitará un formulario, que se encuentra dentro de un elemento <form>.
+-La información de un formulario se envía en pares name/value.
+-Cada control de formulario recibe un nombre, y el texto que el usuario ingresa o los valores de las opciones que seleccionan se envían al servidor.
+-HTML5 introduce nuevos elementos de formulario que facilitan a los visitantes completar formularios.
