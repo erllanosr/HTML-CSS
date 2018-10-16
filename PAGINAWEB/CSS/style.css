@@ -4,12 +4,24 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body {
-    background-image: url(../../BACKGROUNDS/wall15.png);
+    background-image: url(../../BACKGROUNDS/wall10.jpg);
     background-size: cover;
 }
+
 div img {
     width: 20%;
+    display: block;
 }
+p.minombre {
+    margin: 20px 0;
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+    display: block;
+    background-color: #ff8000;
+    width: 50%;
+}
+
 p.font {
     color: #fff;
     text-align: center;
